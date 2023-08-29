@@ -1,4 +1,4 @@
-# Modeling Object-Coocurences in Images
+# Modeling Object Co-Occurrences in Images
 ## Dataset
 The first two columns are the image source and ID (reordered after downloading).  
 The rest columns (column name = object class) are the original data. Each row corresponds to a count vector.
